@@ -70,7 +70,7 @@ now send data in json format POST http method
 
 ### To login user
 ```
-http://your_localhost/api/auth/register
+http://your_localhost/api/auth/login
 now send data in json format in POST http method
 {
   "username": "name",
