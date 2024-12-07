@@ -16,6 +16,7 @@ DB_PASSWORD=<Database_Password>
 DB_NAME=<your_database_name>
 JWT_SECRET=<your_jwt_secret>
 API_KEY=<Your_api_key>
+PORT=<your_port>
 ```
 
 ## Creating database
